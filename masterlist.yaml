@@ -616,6 +616,16 @@ plugins:
 ###### Gameplay - NPC Balance & Distribution ######
 ###### Gameplay - NPC Behaviour & Dialogue ######
 ###### Gameplay - Quests ######
+  - name: 'stregretsquest.esm'
+    url:
+      - link: 'https://www.nexusmods.com/starfield/mods/12506/'
+        name: 'Regrets'
+
+  - name: 'STLazarusAwakened.esm'
+    url:
+      - link: 'https://www.nexusmods.com/starfield/mods/12505'
+        name: 'Lazarus Awakened'
+
 ###### Gameplay - Skills & Perks ######
 ###### Gameplay - User Interface ######
 ###### Gameplay - User Interface - Map markers ######
